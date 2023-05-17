@@ -22,7 +22,17 @@ This command will build the Docker image using the provided Dockerfile.
 ```bash
 docker build -t movie_recommender .
 ```
+
 ## Usage
+5. Run the Docker container:
 ```bash
 docker run -it --rm movie_similarity_app
 ```
+Make sure you have the movies.txt file placed in the project directory before running the Docker container.
+
+## Credits
+
+Author: Moeketsi Segalo
+
+This project was developed using Python and the spaCy library. The code provided in this repository is solely developed by the author mentioned above.
+
