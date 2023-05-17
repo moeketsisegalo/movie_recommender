@@ -1,5 +1,14 @@
 # movie_recommender
 
+## Table of Contents
+
+- [Similarity App](#similarity-app)
+  - [Description](#Description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+
+## Description
 This Movie Recommender App uses the spaCy library to find the most similar movie based on a given description. It reads movie titles and descriptions from a file, applies pre-trained models for preprocessing, calculates similarity scores, and recommends the most similar movie.
 
 ## Installation
