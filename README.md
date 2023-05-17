@@ -26,7 +26,7 @@ docker build -t movie_recommender .
 ## Usage
 5. Run the Docker container:
 ```bash
-docker run -it --rm movie_similarity_app
+docker build -t movie_recommender .
 ```
 Make sure you have the movies.txt file placed in the project directory before running the Docker container.
 
