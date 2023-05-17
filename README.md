@@ -27,7 +27,7 @@ docker build -t movie_recommender .
 ## Usage
 5. Run the Docker container:
 ```bash
-docker build -t movie_recommender .
+docker run -t movie_recommender .
 ```
 ![Screenshot](https://github.com/moeketsisegalo/movie_recommender/raw/main/screenshots_Movie/Screenshot%202023-05-17%20at%2018.24.12.png)
 
