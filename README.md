@@ -22,10 +22,7 @@ This command will build the Docker image using the provided Dockerfile.
 ```bash
 docker build -t movie_recommender .
 ```
-
 ![Screenshot](screenshots_Movie/Screenshot%202023-05-17%20at%2018.23.35.png)
-
-
 
 ## Usage
 5. Run the Docker container:
