@@ -17,3 +17,12 @@ git clone https://github.com/moeketsisegalo/movie_recommender.git
 ```bash
 cd movie_recommender
 ```
+4. Build the Docker image: 
+This command will build the Docker image using the provided Dockerfile.
+```bash
+docker build -t movie_recommender .
+```
+## Usage
+```bash
+docker run -it --rm movie_similarity_app
+```
