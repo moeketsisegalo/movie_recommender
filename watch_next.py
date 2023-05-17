@@ -1,3 +1,6 @@
+# This program is a movie recommendation system based on similarity of movie descriptions.
+# It uses the Spacy library to preprocess the movie descriptions and calculate similarity scores between the input description and the preprocessed movie descriptions.
+
 import spacy
 
 # Load the pre-trained model
