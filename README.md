@@ -31,6 +31,8 @@ docker build -t movie_recommender .
 ```bash
 docker build -t movie_recommender .
 ```
+![Screenshot](screenshots_Movie/Screenshot%2023-05-17%20at%2018.24.12.png)
+
 Make sure you have the movies.txt file placed in the project directory before running the Docker container.
 
 ## Credits
