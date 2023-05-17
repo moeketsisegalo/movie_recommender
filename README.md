@@ -7,7 +7,10 @@ This Movie Recommender App uses the spaCy library to find the most similar movie
 To run the Movie Similarity App using Docker, follow these steps:
 
 1. Make sure you have Docker installed on your system. Visit the official Docker website and download the appropriate version for your operating system: [https://www.docker.com/get-started](https://www.docker.com/get-started)
-
+this command will verify if docker is installed.
+```bash
+ docker run hello-world
+```
 2. Clone this repository:
 ```bash
 git clone https://github.com/moeketsisegalo/movie_recommender.git
