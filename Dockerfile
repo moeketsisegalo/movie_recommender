@@ -4,7 +4,7 @@
 
 # In the second stage, a final image is created using the same python:3.9 base image.
 # The project files are copied into the container. Once again, the Spacy module and English language models are installed in this final image.
-# Finally, the entry point command is set to execute the semantic.py file when the container is run.
+# Finally, the entry point command is set to execute the watch_next.py file when the container is run.
 
 # Stage 1: Builder image
 FROM python:3.9 AS builder
